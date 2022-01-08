@@ -1,0 +1,19 @@
+img{
+    height:400px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+@media all and (max-width:480px) {
+    #title {
+        width: 100%;
+        display: block;
+        padding: 5px;
+        font-size: 80%;
+    }
+}
+body{
+    background-color:#3FEEE6 ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
